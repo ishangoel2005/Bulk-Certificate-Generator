@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+.pytest_cache/
+
+certificate.db
+
+generated_certificates/*.pdf
+
+.vscode/
